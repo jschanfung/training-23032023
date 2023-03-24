@@ -1,4 +1,4 @@
-name: Callee Workflow
+name: Callee Workflow for app-1
 
 on:
   workflow_call:
